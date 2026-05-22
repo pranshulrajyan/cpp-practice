@@ -2,7 +2,7 @@
 
 This repository contains my C++ and DSA learning journey.
 
-## Topics Covered Till Now
+## Topics Covered 
 - Basics of C++
 - Variables
 - Primitive data types
