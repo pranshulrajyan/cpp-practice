@@ -6,6 +6,7 @@ This repository contains my C++ and DSA learning journey.
 - Basics
 - Variables
 - Primitive data types
+- Typecasting
 
 ## Goals
 - Learn DSA in C++
