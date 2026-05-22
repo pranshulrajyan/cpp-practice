@@ -8,7 +8,7 @@ This repository contains my C++ and DSA learning journey.
 - Primitive data types
 - Typecasting
 - Input in C++
-- operators
+- Operators
 
 ## Goals
 - Learn DSA in C++
