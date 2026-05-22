@@ -2,7 +2,7 @@
 
 This repository contains my C++ and DSA learning journey.
 
-## Topics Covered till now
+## Topics Covered Till Now
 - Basics
 - Variables
 
