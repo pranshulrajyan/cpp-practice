@@ -34,6 +34,7 @@ int main(){
     return 0;
 
 }
+//ternary operator or statement 
 int main(){
     int number;
     cout << "enter a number:" << endl;
