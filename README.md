@@ -9,6 +9,7 @@ This repository contains my C++ and DSA learning journey.
 - Typecasting
 - Input in C++
 - Operators
+- Conditional statements
 
 ## Goals
 - Learn DSA in C++
