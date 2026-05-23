@@ -11,6 +11,7 @@ This repository contains my C++ and DSA learning journey.
 - Operators
 - Conditional statements
 - Loops
+- Patterns
 
 ## Goals
 - Learn DSA in C++
