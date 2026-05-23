@@ -14,8 +14,8 @@ int main(){
         cout << endl;
         return 0;
 } 
-// //for loop
-// //for(initialization; condition; increment/decrement)
+//for loop
+//for(initialization; condition; increment/decrement)
 int main(){
     int i = 1;
     int n;
@@ -27,7 +27,7 @@ int main(){
     cout << endl;
     return 0;
 }
-// //sum of numbers from 1 to n:
+//sum of numbers from 1 to n:
 int main(){ //for loop to find the sum of numbers from 1 to n
     int i;
     int sum = 0;
