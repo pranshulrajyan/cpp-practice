@@ -10,6 +10,7 @@ This repository contains my C++ and DSA learning journey.
 - Input in C++
 - Operators
 - Conditional statements
+- Loops
 
 ## Goals
 - Learn DSA in C++
