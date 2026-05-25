@@ -111,7 +111,7 @@ int main(){
         }
       return 0;
     }
-reverse triangle pattern for numbers:
+//reverse triangle pattern for numbers:
 int main(){
      int n = 4;
 
@@ -124,7 +124,7 @@ int main(){
      
      return 0;
 }
-floyd's triangle pattern:
+//floyd's triangle pattern:
 int main(){
     int n = 5;
     int num = 1;
@@ -138,7 +138,7 @@ int main(){
     }
     return 0;
 }
-inverted triangle pattern:
+//inverted triangle pattern:
 int main(){
     int n = 4;
     
