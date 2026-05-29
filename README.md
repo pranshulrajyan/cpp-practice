@@ -1,6 +1,6 @@
 # cpp-practice
 
-This repository contains my C++ and DSA learning journey.
+This repository contains C++ basics.
 
 ## Topics Covered 
 - Basics
