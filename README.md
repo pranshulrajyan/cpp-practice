@@ -1,4 +1,4 @@
-# cpp-practice
+# C++-basics
 
 This repository contains C++ basics.
 
