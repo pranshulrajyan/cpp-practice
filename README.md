@@ -14,5 +14,5 @@ This repository contains C++ basics.
 - Patterns
 
 ## Goals
-- Learn DSA in C++
+- Learn C++ basics
 - Practice problem solving
